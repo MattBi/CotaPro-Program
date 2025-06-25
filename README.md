@@ -4,7 +4,7 @@ CotaPro is a language test scoring assistance programme. It analyses a spreadshe
 This tool has several advantages:
 - rating a large number of transcripts for a large number of participants quickly and systematically
 - it allows several possible answers for the same item (easily configured by the user)
-- it allows one character to be replaced by another (e.g. certain vowels in French, such as ‘é’ and ‘è’, are not always differentiated). The user can easily configure the tool to allow certain substitutions and not others).
+- it allows one character to be replaced by another (e.g. certain vowels in French, such as ‘é’ and ‘è’, are not always differentiated. The user can easily configure the tool to allow certain substitutions and not others).
 - it offers three types of rating useful in a research and clinical approach: binary (0 or 1), Damerau Levensthein distance (number of operations required to go from the word produced to the target), a breakdown of the types of phonological errors made on the basis of the Damerau Levensthein algorithm (omissions, additions, substitutions, transpositions of order 1).
 
 # Programme CotaPro
