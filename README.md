@@ -7,7 +7,7 @@ This tool has several advantages:
 - it allows one character to be replaced by another (e.g. certain vowels in French, such as ‘é’ and ‘è’, are not always differentiated). The user can easily configure the tool to allow certain substitutions and not others).
 - it offers three types of rating useful in a research and clinical approach: binary (0 or 1), Damerau Levensthein distance (number of operations required to go from the word produced to the target), a breakdown of the types of phonological errors made on the basis of the Damerau Levensthein algorithm (omissions, additions, substitutions, transpositions of order 1).
 
-#Programme CotaPro
+# Programme CotaPro
 
 CotaPro est un programme d'assistance à la cotation de tests  de langage. Il permet d'analyser un tableur comportant les transcription de productions verbales de participants, de les comparer aux productions verbales attendues par le test et de coter la réussite à chaque item pour chaque participant.
 Cet outil présente plusieurs avantages : 
